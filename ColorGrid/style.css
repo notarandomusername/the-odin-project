@@ -7,12 +7,12 @@ h1 {
 
 .container {
 	position: relative;
-	top: 40px;
+	top: 30px;
 	outline:2px solid #000;
 	font-size: 0;
 	margin:auto;
-	height:960px;
-	width:960px;
+	height:840px;
+	width:840px;
 	padding: 0;
 	border: none;
 }
