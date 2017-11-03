@@ -1,5 +1,5 @@
 function LoadDivs(n) {
-    var trueLen = Math.floor(960/n);
+    var trueLen = Math.floor(720/n);
     for (var i = 0; i < n; i++) {
       for (var j = 0; j < n; j++) {
           $(".container").append("<div class='unit'></div>");
