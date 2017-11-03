@@ -4,11 +4,6 @@
     font-family: "Roboto", sans-serif;
 }
 
-.wrapper {
-    min-height: 100%;
-    margin-bottom: -45px;
-}
-
 .list-left, .list-right {
     display: inline-block;
     color: black;
